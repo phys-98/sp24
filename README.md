@@ -1,4 +1,3 @@
-# Course Website Work in Progress
+# Springboard Spring 2024
 
-https://ljs-233233.github.io/website-test/ <br> <br>
-Inspiration: UC Berkeley EECS
+https://phys-98.github.io/sp24/
