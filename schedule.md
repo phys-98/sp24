@@ -1,8 +1,8 @@
 ---
-title: Weekly Schedule
+title: Schedule
 layout: default
 ---
 
-<h1> Weekly Springboard Calendar. </h1>
+<h1> Weekly Calendar </h1>
 
-<iframe src="https://calendar.google.com/calendar/embed?src=c_ff91281ce3eaa4b5ec3a65c3f7eae9c461eced7c867e6ab5dd634d6e772175ca%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=2&bgcolor=%23ffffff&ctz=America%2FLos_Angeles&mode=WEEK&src=bGpzMjMzMjMzQGJlcmtlbGV5LmVkdQ&src=Y18zMmNhZjg0NjYxMmYwNWUxNDAyMGQyMTU3OTliNTMwNDE2ZGFmMzUwNGRhYTdkZDBjYWMxNDk4MzdlNjZhZTc4QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&src=Y18zOWFiOWFmM2JjMDZhZTFiYmNmZDU3NjdlZDliZGZiMjhmOTVjOGYzZWZjMTE3MTc5YzJiNjcyMzYyYTExN2QzQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&src=Y182ZTI2Y2Q3NTRkOWJiMDc4MzI1ZTEyODIwMjc5MTY2YTNhYjZmNTE2ZWYwZjlmYjhkMzEwNWMwMTdlZTkzNGJkQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&src=Y184NmFmMDBiZDQ2ZDU5MzQzODE5Y2ExODZkODA2ODNlZTU4NTM5MzQ5NTlmODM3MzQzNGZiNWQ3MGZhOWE4ZjU2QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&src=Y19kMjljODczYWYxNThmNmY3MDY3ZjlkZTdhMzE3ODg0ODQ2NDgzYWQ0YTQyNDMzMDRkNTdmYjE3NDAzZmFjOWQ3QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&src=Y19mZjkxMjgxY2UzZWFhNGI1ZWMzYTY1YzNmN2VhZTljNDYxZWNlZDdjODY3ZTZhYjVkZDYzNGQ2ZTc3MjE3NWNhQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&src=Y18wMWM1ODA2NzJlMTBhNGRkMTYxYWMyNzMxYTU5NWVkMjY5Yzk2MjEwODc4ZjVhYTYzYjFmZmUyODg3NWRjMmY1QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&src=YmVya2VsZXkuZWR1XzJ1OTZjc3BzbGpmZGM0bHFpcWpjOXZhdDA0QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&color=%23D81B60&color=%23039BE5&color=%23F09300&color=%2364c872&color=%23F4511E&color=%239E69AF&color=%23616161&color=%23F6BF26&color=%23E67C73" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
