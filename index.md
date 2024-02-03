@@ -12,7 +12,7 @@ layout: home
 > More exciting information on the way! <br>
 >  <br>
 
-[A button](https://www.google.com/){:target="_blank"}{: .btn .btn-blue }
+[Click Me](https://www.google.com/){:target="_blank"}{: .btn .btn-blue }
 
 <h2> Course Calendar </h2>
 <h3> Week 1 </h3>
