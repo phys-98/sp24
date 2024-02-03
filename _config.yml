@@ -1,0 +1,14 @@
+title: Website Title
+description: Work in Progress Course Website
+theme: just-the-docs
+
+url: https://just-the-docs.github.io
+
+aux_links:
+    Link: https://www.google.com/
+
+search_enabled: false
+
+ga_tracking: UA-2709176-10
+ga_tracking_anonymize_ip: true
+

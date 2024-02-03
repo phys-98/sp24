@@ -1,0 +1,72 @@
+{"0": {
+    "doc": "Instructors",
+    "title": " About us ",
+    "content": "TBD . ",
+    "url": "/Instructors.html",
+    
+    "relUrl": "/Instructors.html"
+  },"1": {
+    "doc": "Instructors",
+    "title": "Instructors",
+    "content": " ",
+    "url": "/Instructors.html",
+    
+    "relUrl": "/Instructors.html"
+  },"2": {
+    "doc": "Home",
+    "title": " Subject 999: Course Title ",
+    "content": "Section - Semester Year . Mito Funatsu, Jinsheng Li . ",
+    "url": "/",
+    
+    "relUrl": "/"
+  },"3": {
+    "doc": "Home",
+    "title": " Announcements ",
+    "content": "Line 1 Line 2 Line 3 . A button . ",
+    "url": "/",
+    
+    "relUrl": "/"
+  },"4": {
+    "doc": "Home",
+    "title": " Course Calendar ",
+    "content": "Week 1 . Aug 24 Lecture 1 Introduction Note 1 Note 1 Lecture Participation 1 Lecture Participation 1 Aug 25 Lab 1 Prerequisite Coding (due Aug 29) Homework 1A Plotting and Permutation Test (due Aug 31) Homework 1B Prerequisite Math (due Aug 31) . Week 2 . Aug 24 Lecture 1 Introduction Note 1 Note 1 Lecture Participation 1 Lecture Participation 1 Aug 25 Lab 1 Prerequisite Coding (due Aug 29) Homework 1A Plotting and Permutation Test (due Aug 31) Homework 1B Prerequisite Math (due Aug 31) . ",
+    "url": "/",
+    
+    "relUrl": "/"
+  },"5": {
+    "doc": "Home",
+    "title": "Home",
+    "content": " ",
+    "url": "/",
+    
+    "relUrl": "/"
+  },"6": {
+    "doc": "Weekly Schedule",
+    "title": " We can put the weekly course calendar here. ",
+    "content": " ",
+    "url": "/schedule.html",
+    
+    "relUrl": "/schedule.html"
+  },"7": {
+    "doc": "Weekly Schedule",
+    "title": "Weekly Schedule",
+    "content": " ",
+    "url": "/schedule.html",
+    
+    "relUrl": "/schedule.html"
+  },"8": {
+    "doc": "Syllabus",
+    "title": " Syllabus ",
+    "content": "TBD . ",
+    "url": "/syllabus.html",
+    
+    "relUrl": "/syllabus.html"
+  },"9": {
+    "doc": "Syllabus",
+    "title": "Syllabus",
+    "content": " ",
+    "url": "/syllabus.html",
+    
+    "relUrl": "/syllabus.html"
+  }
+}
