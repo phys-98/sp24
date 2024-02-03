@@ -1,11 +1,11 @@
-title: Website Title
-description: Work in Progress Course Website
+title: Springboard
+description: Physics Springboard Spring 2024
 theme: just-the-docs
 
 url: https://just-the-docs.github.io
 
 aux_links:
-    Link: https://www.google.com/
+    Cal Physics: https://physics.berkeley.edu/
 
 search_enabled: false
 

@@ -20,9 +20,9 @@ layout: home
 ----
 
 > Feb 3
-> : **Lecture 1**{: .label .label-blue } [Introduction](https://www.google.com/){:target="_blank"}
-> : **Note 1**{: .label .label-green } [Note 1](https://www.google.com/){:target="_blank"}
-> : **Lecture Participation 1**{: .label .label-purple } [Lecture Participation 1](https://www.google.com/){:target="_blank"}
+> : **Section 1**{: .label .label-blue } [Coordinate Systems](https://www.google.com/){:target="_blank"}
+> : **Note 1**{: .label .label-green } [Coordinate Systems](https://www.google.com/){:target="_blank"}
+> : **Worksheet 1**{: .label .label-purple } [Coordinate System, Kinematics](https://www.google.com/){:target="_blank"}
 
 > Feb 4
 > : **Lab 1**{: .label .label-red } [Prerequisite Coding](https://www.google.com/){:target="_blank"} (due Aug 29)
