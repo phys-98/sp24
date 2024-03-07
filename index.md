@@ -20,7 +20,8 @@ layout: home
 ----
 
 > Feb 8
-> : **Section 1**{: .label .label-blue } [Dimensional Analysis, Kinematics](https://drive.google.com/file/d/10vJPJXDSHKpuBoTJ74vp1pKLp0-J3GOS/view?usp=sharing){:target="_blank"}
+> : **Worksheet**{: .label .label-blue } [Dimensional Analysis, Kinematics](https://drive.google.com/file/d/10vJPJXDSHKpuBoTJ74vp1pKLp0-J3GOS/view?usp=sharing){:target="_blank"}
+> : **Solution**{: .label .label-yellow } [](https://drive.google.com/file/d/1bcUkEDdHr3BdDSTDJvQerZKAstfOZn-Y/view?usp=sharing){:target="_blank"}
 
 ----
 
@@ -29,16 +30,8 @@ layout: home
 ----
 
 > Feb 15
-> : **Section 2**{: .label .label-blue } [TBD](https://phys-98.github.io/sp24/){:target="_blank"} (due Aug 29)
-
-----
-
-<h3> Week 3 </h3>
-
-----
-
-> Feb 22
-> : **Section 3**{: .label .label-blue } [TBD](https://phys-98.github.io/sp24/){:target="_blank"} (due Aug 29)
+> : **Worksheet**{: .label .label-blue } [Taylor Series, Euler's Identity](https://drive.google.com/file/d/1li3xGyeM3ptYU8igDaUwWsdKGWMXDs0z/view?usp=sharing){:target="_blank"} 
+> : **Solution**{: .label .label-yellow } [](https://drive.google.com/file/d/1z0xS9tj_30U0soMKtZ5se-21iSpg5U1I/view?usp=sharing){:target="_blank"}
 
 ----
 
@@ -47,7 +40,8 @@ layout: home
 ----
 
 > Feb 29
-> : **Section 4**{: .label .label-blue } [TBD](https://phys-98.github.io/sp24/){:target="_blank"} (due Aug 29)
+> : **Worksheet**{: .label .label-blue } [Differential Equations](https://drive.google.com/file/d/1uwnyGzBEB1e9LM0NZOSKx3m2uUQmdurk/view?usp=sharing){:target="_blank"} 
+> : **Solution**{: .label .label-yellow } [](https://drive.google.com/file/d/1gI16txzEexOawX-bR8BeTac99Un6FFNZ/view?usp=sharing){:target="_blank"} 
 
 ----
 
@@ -56,79 +50,7 @@ layout: home
 ----
 
 > Mar 7
-> : **Section 5**{: .label .label-blue } [TBD](https://phys-98.github.io/sp24/){:target="_blank"} (due Aug 29)
-
-----
-
-<h3> Week 6 </h3>
-
-----
-
-> Mar 14
-> : **Section 6**{: .label .label-blue } [TBD](https://phys-98.github.io/sp24/){:target="_blank"} (due Aug 29)
-
-----
-
-<h3> Week 7 </h3>
-
-----
-
-> Mar 21
-> : **Section 7**{: .label .label-blue } [TBD](https://phys-98.github.io/sp24/){:target="_blank"} (due Aug 29)
-
-----
-
-<h3> Week 8 </h3>
-
-----
-
-> Mar 28
-> : **Section 8**{: .label .label-blue } [TBD](https://phys-98.github.io/sp24/){:target="_blank"} (due Aug 29)
-
-----
-
-<h3> Week 9 </h3>
-
-----
-
-> Apr 4
-> : **Section 9**{: .label .label-blue } [TBD](https://phys-98.github.io/sp24/){:target="_blank"} (due Aug 29)
-
-----
-
-<h3> Week 10 </h3>
-
-----
-
-> Apr 11
-> : **Section 10**{: .label .label-blue } [TBD](https://phys-98.github.io/sp24/){:target="_blank"} (due Aug 29)
-
-----
-
-<h3> Week 11 </h3>
-
-----
-
-> Apr 18
-> : **Section 11**{: .label .label-blue } [TBD](https://phys-98.github.io/sp24/){:target="_blank"} (due Aug 29)
-
-----
-
-<h3> Week 12 </h3>
-
-----
-
-> Apr 25
-> : **Section 12**{: .label .label-blue } [TBD](https://phys-98.github.io/sp24/){:target="_blank"} (due Aug 29)
-
-----
-
-<h3> Week 13 </h3>
-
-----
-
-> May 2
-> : **Section 13**{: .label .label-blue } [TBD](https://phys-98.github.io/sp24/){:target="_blank"} (due Aug 29)
+> : **Worksheet**{: .label .label-blue } [Rotation](https://drive.google.com/file/d/1eYvjAgttusqGDH1FAlgxo33k_cJKZI-t/view?usp=sharing){:target="_blank"} 
 
 ----
 
