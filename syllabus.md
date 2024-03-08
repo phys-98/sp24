@@ -11,7 +11,9 @@ layout: default
 
 <h5> Textbooks </h5>
 
-> [A Guide to Physics Problems Part 1](https://cdn.preterhuman.net/texts/science_and_technology/physics/A%20Guide%20to%20Physics%20Problems%20Part%201%20-%20Mechanics,%20Relativity,%20and%20Electrodynamics%20-%20Cahn%20S.,%20Nadgorny%20B..pdf){:target="_blank"}
-> [Problems and Solutions on Mechanics](http://www.astrosen.unam.mx/~posgrado/libros/01_mechanics_lim.pdf){:target="_blank"}
-> [The Feynman Lectures on Physics](https://www.feynmanlectures.caltech.edu/info/){:target="_blank"}
+> [A Guide to Physics Problems Part 1](https://cdn.preterhuman.net/texts/science_and_technology/physics/A%20Guide%20to%20Physics%20Problems%20Part%201%20-%20Mechanics,%20Relativity,%20and%20Electrodynamics%20-%20Cahn%20S.,%20Nadgorny%20B..pdf){:target="_blank"} <br>
+
+> [Problems and Solutions on Mechanics](http://www.astrosen.unam.mx/~posgrado/libros/01_mechanics_lim.pdf){:target="_blank"} <br>
+
+> [The Feynman Lectures on Physics](https://www.feynmanlectures.caltech.edu/info/){:target="_blank"} <br>
 
