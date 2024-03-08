@@ -24,11 +24,11 @@ layout: home
 
 ----
 
-<h3> Week 2 </h3>
+<h3> Week 2, 3 </h3>
 
 ----
 
-> Feb 15
+> Feb 15, Feb 22
 > : **Worksheet**{: .label .label-blue } [Taylor Series, Euler's Identity](https://drive.google.com/file/d/1li3xGyeM3ptYU8igDaUwWsdKGWMXDs0z/view?usp=sharing){:target="_blank"} 
 > : **Solution**{: .label .label-yellow } [Worksheet 2 Solution](https://drive.google.com/file/d/1z0xS9tj_30U0soMKtZ5se-21iSpg5U1I/view?usp=sharing){:target="_blank"}
 
