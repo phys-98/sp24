@@ -8,9 +8,8 @@ layout: home
 
 <h2> Announcements </h2>
 
-> Our first meeting will be on Thursday, Feb 8, 2024. <br>
+> We meet every Thursday 6-7 PM, in Birge 468. <br>
 > More exciting stuff on the way! <br>
->  <br>
 
 [Click Me](https://en.wikipedia.org/wiki/Spherical_cow#/media/File:Spot_the_cow.gif){:target="_blank"}{: .btn .btn-blue }
 
@@ -21,7 +20,7 @@ layout: home
 
 > Feb 8
 > : **Worksheet**{: .label .label-blue } [Dimensional Analysis, Kinematics](https://drive.google.com/file/d/10vJPJXDSHKpuBoTJ74vp1pKLp0-J3GOS/view?usp=sharing){:target="_blank"}
-> : **Solution**{: .label .label-yellow } [](https://drive.google.com/file/d/1bcUkEDdHr3BdDSTDJvQerZKAstfOZn-Y/view?usp=sharing){:target="_blank"}
+> : **Solution**{: .label .label-yellow } [Worksheet 1 Solution](https://drive.google.com/file/d/1bcUkEDdHr3BdDSTDJvQerZKAstfOZn-Y/view?usp=sharing){:target="_blank"}
 
 ----
 
@@ -31,7 +30,7 @@ layout: home
 
 > Feb 15
 > : **Worksheet**{: .label .label-blue } [Taylor Series, Euler's Identity](https://drive.google.com/file/d/1li3xGyeM3ptYU8igDaUwWsdKGWMXDs0z/view?usp=sharing){:target="_blank"} 
-> : **Solution**{: .label .label-yellow } [](https://drive.google.com/file/d/1z0xS9tj_30U0soMKtZ5se-21iSpg5U1I/view?usp=sharing){:target="_blank"}
+> : **Solution**{: .label .label-yellow } [Worksheet 2 Solution](https://drive.google.com/file/d/1z0xS9tj_30U0soMKtZ5se-21iSpg5U1I/view?usp=sharing){:target="_blank"}
 
 ----
 
@@ -41,7 +40,7 @@ layout: home
 
 > Feb 29
 > : **Worksheet**{: .label .label-blue } [Differential Equations](https://drive.google.com/file/d/1uwnyGzBEB1e9LM0NZOSKx3m2uUQmdurk/view?usp=sharing){:target="_blank"} 
-> : **Solution**{: .label .label-yellow } [](https://drive.google.com/file/d/1gI16txzEexOawX-bR8BeTac99Un6FFNZ/view?usp=sharing){:target="_blank"} 
+> : **Solution**{: .label .label-yellow } [Worksheet 3 Solution](https://drive.google.com/file/d/1gI16txzEexOawX-bR8BeTac99Un6FFNZ/view?usp=sharing){:target="_blank"} 
 
 ----
 
