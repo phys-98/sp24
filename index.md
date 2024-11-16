@@ -3,62 +3,24 @@ title: Home
 layout: home
 ---
 
-<h1> Physics Springboard </h1> 
-<h3><em> Spring 2024 </em></h3> 
-
-<h2> Announcements </h2>
-
-> We meet every Thursday 6-7 PM, in Birge 468. <br>
-> More exciting stuff on the way! <br>
+<h1> Computational Techniques in Physics </h1> 
+<h3><em> Splash at Berkeley, Fall 2024 </em></h3> 
 
 [Click Me](https://en.wikipedia.org/wiki/Spherical_cow#/media/File:Spot_the_cow.gif){:target="_blank"}{: .btn .btn-blue }
 
-<h2> Semester Calendar </h2>
-<h3> Week 1 </h3>
+<h2> Schedule </h2>
 
 ----
 
 > Feb 8
-> : **Worksheet**{: .label .label-blue } [Dimensional Analysis, Kinematics](https://drive.google.com/file/d/10vJPJXDSHKpuBoTJ74vp1pKLp0-J3GOS/view?usp=sharing){:target="_blank"}
-> : **Solution**{: .label .label-yellow } [Worksheet 1 Solution](https://drive.google.com/file/d/1bcUkEDdHr3BdDSTDJvQerZKAstfOZn-Y/view?usp=sharing){:target="_blank"}
+> : **Demonstration**{: .label .label-blue } [Python Basics](https://drive.google.com/file/d/10vJPJXDSHKpuBoTJ74vp1pKLp0-J3GOS/view?usp=sharing){:target="_blank"}
 
 ----
 
-<h3> Week 2, 3 </h3>
-
 ----
 
-> Feb 15, 22
-> : **Worksheet**{: .label .label-blue } [Taylor Series, Euler's Identity](https://drive.google.com/file/d/1li3xGyeM3ptYU8igDaUwWsdKGWMXDs0z/view?usp=sharing){:target="_blank"} 
-> : **Solution**{: .label .label-yellow } [Worksheet 2 Solution](https://drive.google.com/file/d/1z0xS9tj_30U0soMKtZ5se-21iSpg5U1I/view?usp=sharing){:target="_blank"}
-
-----
-
-<h3> Week 4 </h3>
-
-----
-
-> Feb 29
-> : **Worksheet**{: .label .label-blue } [Differential Equations](https://drive.google.com/file/d/1uwnyGzBEB1e9LM0NZOSKx3m2uUQmdurk/view?usp=sharing){:target="_blank"} 
-> : **Solution**{: .label .label-yellow } [Worksheet 3 Solution](https://drive.google.com/file/d/1gI16txzEexOawX-bR8BeTac99Un6FFNZ/view?usp=sharing){:target="_blank"} 
-
-----
-
-<h3> Week 5 </h3>
-
-----
-
-> Mar 7
-> : **Worksheet**{: .label .label-blue } [Rotation](https://drive.google.com/file/d/1eYvjAgttusqGDH1FAlgxo33k_cJKZI-t/view?usp=sharing){:target="_blank"} 
-
-----
-
-<h3> Week 6 </h3>
-
-----
-
-> Mar 14
-> : **Worksheet**{: .label .label-blue } [Oscillation](https://drive.google.com/file/d/1KZEs9VyEVjT3N-8nGRnyeEFr-Cbh8Eu8/view?usp=sharing){:target="_blank"} 
+> Feb 8
+> : **Practice**{: .label .label-yellow } [Simulating Mass on a Spring](https://workshop.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fsplash-ctip%2Ffa24&branch=main&urlpath=tree%2Ffa24%2Fsimulation.ipynb){:target="_blank"}
 
 ----
 
@@ -82,4 +44,3 @@ layout: home
 
 ----
 //-->
-
